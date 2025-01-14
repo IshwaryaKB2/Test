@@ -218,7 +218,7 @@ main.sign-up-mode .carousel {
   transition: 0.8s ease-in-out;
 }
 
-.images-wrapper {
+/* .images-wrapper {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
@@ -247,7 +247,7 @@ main.sign-up-mode .carousel {
 .image.show {
   opacity: 1;
   transform: none;
-}
+} */
 
 .text-slider {
   display: flex;
@@ -350,9 +350,9 @@ main.sign-up-mode .carousel {
     display: flex;
   }
 
-  .images-wrapper {
+/*   .images-wrapper {
     display: none;
-  }
+  } */
 
   .text-slider {
     width: 100%;
